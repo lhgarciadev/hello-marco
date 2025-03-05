@@ -1,3 +1,8 @@
+[![Rustfmt](https://github.com/lhgarciadev/hello-marco/actions/workflows/rustfmt.yml/badge.svg)](https://github.com/lhgarciadev/hello-marco/actions/workflows/rustfmt.yml)
+[![Clippy](https://github.com/lhgarciadev/hello-marco/actions/workflows/lint.yml/badge.svg)](https://github.com/lhgarciadev/hello-marco/actions/workflows/lint.yml)
+[![Tests](https://github.com/lhgarciadev/hello-marco/actions/workflows/tests.yml/badge.svg)](https://github.com/lhgarciadev/hello-marco/actions/workflows/tests.yml)
+[![Build binary release](https://github.com/lhgarciadev/hello-marco/actions/workflows/release.yml/badge.svg)](https://github.com/lhgarciadev/hello-marco/actions/workflows/release.yml)
+
 # Hello Marco
 
 A simple Marco Polo game implemented in Rust.
