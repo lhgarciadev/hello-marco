@@ -18,7 +18,7 @@ To install the project, you need to have Rust and Cargo installed. You can insta
 Clone the repository:
 
 ```sh
-git clone https://github.com/yourusername/hello-marco.git
+git clone https://github.com/lhgarciadev/hello-marco.git
 cd hello-marco
 ```
 
